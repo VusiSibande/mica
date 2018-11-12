@@ -1,0 +1,23 @@
+body {
+    font-family: 'Hind Guntur', sans-serif;
+}
+
+.jumbotron {
+    border-radius: 0 !important;
+    background-image: url("../assets/bg.png");
+    background-position: center;
+    color: beige;
+}
+
+.btn {
+    border-radius: 0 !important;
+    padding: 10px;
+}
+
+.card-deck {
+    padding: 10px;
+}
+
+.a {
+    padding: 10px;
+}
